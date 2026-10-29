@@ -1,2 +1,8 @@
 hello
+<<<<<<< HEAD
 world
+=======
+hii
+>>>>>>> feature1
+
+goooo
